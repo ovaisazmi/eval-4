@@ -15,7 +15,7 @@ app.use(validator);
 app.use("/posts",post_router);
 
 app.get("/",(req,res)=>{
-    res.send("Home Page")
+    res.send("Home Pagee")
 })
 
 
